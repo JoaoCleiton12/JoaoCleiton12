@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/JoaoCleiton12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCleiton12&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/JoaoCleiton12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCleiton12&repo=convoychat" />
+</a>
