@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world, me chamo João Cleiton, Estudante de Ciencia da computação 👋
 
 <!--
 **JoaoCleiton12/JoaoCleiton12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/JoaoCleiton12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCleiton12&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/JoaoCleiton12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCleiton12&repo=convoychat" />
-</a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Joao-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Joao-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Joao-PostSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Joao-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+</div>
