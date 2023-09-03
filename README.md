@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 ## Ferramentas
 <div style="display: inline_block">
-    <img align="center" alt="Joao-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Joas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-    <img align="center" alt="Joas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Joao-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="Joas-windowns" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> 
-    <img align="center" alt="Joas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Joas-github" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
+    <img align="center" alt="Joao-C++" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Joas-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+    <img align="center" alt="Joas-vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Joao-Vs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Joas-windowns" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> 
+    <img align="center" alt="Joas-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Joas-github" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
 </div>
 
 
 ## Aprendendo 
 <div style="display: inline_block">
-    <img align="center" alt="Joao-PostSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="Joas-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Joao-PostSQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="Joas-py" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
 
  ## Contatos
