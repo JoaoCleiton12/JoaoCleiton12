@@ -1,4 +1,4 @@
-### Hello world, me chamo João Cleiton, Estudante de Ciencia da computação 👋
+### Hello world, me chamo João Cleiton e sou estudante de Ciencia da computação 👋
 
 <!--
 **JoaoCleiton12/JoaoCleiton12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
