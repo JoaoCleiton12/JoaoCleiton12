@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## Ferramentas
 <div style="display: inline_block">
     <img align="center" alt="Joao-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Joao-PostSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" alt="Joas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
     <img align="center" alt="Joas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Joao-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
@@ -32,6 +31,12 @@ Here are some ideas to get you started:
     <img align="center" alt="Joas-github" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
 </div>
 
+
+## Aprendendo 
+<div style="display: inline_block">
+    <img align="center" alt="Joao-PostSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="Joas-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    
 
  ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A3o-cleiton-916263221/)
