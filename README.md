@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img height="160 em" src="https://github-readme-stats.vercel.app/api?username=JoaoCleiton12&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&PAT_1=TRUE">
     <img height="160 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoCleiton12&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
-
+<div style="display: inline_block"><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
